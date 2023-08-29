@@ -21,7 +21,9 @@ El proyecto contará con N etapas principales:
 # Metodología del proyecto
 
 # Integrantes del proyecto
-
++ Joseph Brahan Oviedo Soto
++ d
++ 
 # Foto grupal
 
 # Docentes del curso
