@@ -6,7 +6,10 @@ Proyecto:
 # Objetivo del proyecto
 
 # Contenido del proyecto
-
+El proyecto contará con N etapas principales:
+ETAPA 1
+ETAPA 2
+ETAPA 3
 # Materiales para el proyecto
 
 # Temática del proyecto
