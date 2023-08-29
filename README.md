@@ -1,6 +1,6 @@
 # Proyecto_de_Funbio G03
 Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, centrado en Señales e imágenes biomédicas
-Integrantes:
+- Integrantes:
 + Joseph Brahan Oviedo Soto   73577710
 - Proyecto:
 + Elaboración de un detector de cáncer de mama, el cual presenta imágenes en secciones para brindar la ubicación y tamaño del tumor.
