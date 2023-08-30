@@ -21,12 +21,16 @@ El proyecto contará con N etapas principales:
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
 + d
++ Annel Martínez Huamán
 + 
 # Foto grupal
 
 # Docentes del curso
 - Paulo Camilo Alberto Vela Anton
 - Renzo Jose Chan Rios
+- Umbert Lewis de la Cruz Rodriguez
+- Eder Juárez
+- Jose Alonso Cáceres del Aguila
 # Bibliografía
 + [1] The Blue box es un dispositivo que ejecuta la detección del cáncer de mama de una forma similar a dispositivos médicos considerablemente más costosos y, por ende,no disponibles en la mayoría de centros clínicos. Para su funcionamiento, este dispositivo identifica la presencia de VOC’s en una muestra de orina. (https://thebluebox.ai/product/)
 + [2] IA’s que presentan imágenes y guías para la detección detallada del tumor mamario por medio de un software, facilitando el trabajo a los radiólogos para detectar lesiones poco perceptibles.(https://www.newtral.es/inteligencia-artificial-cancer-de-mama-deteccion/20230401/)
