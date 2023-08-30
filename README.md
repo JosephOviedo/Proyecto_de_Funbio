@@ -23,7 +23,8 @@ El proyecto contará con N etapas principales:
 + Joseph Brahan Oviedo Soto
 + Adrián Mayor Calderón
 + Annel Martínez Huamán
-+ 
++ Kiara Elena Carvallo Castañeda
++ Cesar Fabricio Sanchez Campuy
 # Foto grupal
 
 # Docentes del curso
