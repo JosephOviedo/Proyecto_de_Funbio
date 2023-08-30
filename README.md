@@ -3,7 +3,7 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 + Proyecto: Elaboración de un detector de cáncer de mama, el cual presenta imágenes en secciones para brindar la ubicación y tamaño del tumor.
 
 # Introducción
-El cáncer de mama es el tipo de cáncer común por ser una de las principales causas de muerte entre las mujeres. Cada año se producen en la Región más de 462.000 casos nuevos y casi 100.000 muertes por cáncer de mama. Además de tener incidencia en mujeres menores de 40-45 años de edad, debido a que las caracteristicas histopatológicas y moleculares se llegan a dar por un mal pronóstico.
+El cáncer de mama es el tipo de cáncer común por ser una de las principales causas de muerte entre las mujeres. Cada año se producen en la Región más de 462.000 casos nuevos y casi 100.000 muertes por cáncer de mama. Además de tener incidencia en mujeres menores de 40-45 años de edad (aproximadamente el 30%  de los cánceres diagnosticados en mujeres se originan en la mama), debido a que las caracteristicas histopatológicas y moleculares se llegan a dar por un mal pronóstico.
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
@@ -37,4 +37,3 @@ El cáncer de mama es el tipo de cáncer común por ser una de las principales c
 + [5] (https://sespm.es/un-sujetador-inteligente-para-detectar-el-cancer-de-mama/)
 + [6] Valdivia-Silva J, Pérez-Tulich L, Flores-Olazo L, Málaga-Julca M, Ubidia A, Fleschman A, et al. Desarrollo de un sistema microfluidico (lab-on-achip) accesible y de bajo costo para detección de células tumorales circulantes de cáncer de mama. Acta médica peru [Internet]. 2020;37(1). Disponible en: http://www.scielo.org.pe/pdf/amp/v37n1/1728-5917-amp-37-01-40.pdf
 + [7] Andrés C, Paredes C. Estudio de dispositivos Terahertz para futuras aplicaciones en biomédica [Internet]. Edu.co. [citado el 30 de agosto de 2023]. Disponible en: https://repositorio.uniandes.edu.co/bitstream/handle/1992/61432/4949.pdf?sequence=1
-
