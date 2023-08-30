@@ -1,7 +1,6 @@
 # Proyecto_de_Funbio G03
 Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, centrado en Señales e imágenes biomédicas
 + Proyecto: Elaboración de un detector de cáncer de mama, el cual presenta imágenes en secciones para brindar la ubicación y tamaño del tumor.
-# Tabla de contenido
 
 # ¿Por qué el cáncer de mama?
 El cáncer de mama es el tipo de cáncer común por ser una de las principales causas de muerte entre las mujeres. Cada año se producen en la Región más de 462.000 casos nuevos y casi 100.000 muertes por cáncer de mama. Además de tener incidencia en mujeres menores de 40-45 años de edad, debido a que las caracteristicas histopatológicas y moleculares se llegan a dar por un mal pronóstico.
