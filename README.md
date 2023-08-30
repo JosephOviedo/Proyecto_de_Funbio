@@ -4,19 +4,6 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 
 # ¿Por qué el cáncer de mama?
 El cáncer de mama es el tipo de cáncer común por ser una de las principales causas de muerte entre las mujeres. Cada año se producen en la Región más de 462.000 casos nuevos y casi 100.000 muertes por cáncer de mama. Además de tener incidencia en mujeres menores de 40-45 años de edad, debido a que las caracteristicas histopatológicas y moleculares se llegan a dar por un mal pronóstico.
-# Objetivo del proyecto
-
-# Contenido del proyecto
-El proyecto contará con N etapas principales:
-* ETAPA 1
-* ETAPA 2
-* ETAPA 3
-
-# Temática del proyecto
-
-# Justificación del proyecto
-
-# Metodología del proyecto
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
