@@ -21,7 +21,7 @@ El proyecto contará con N etapas principales:
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
-+ 
++ Adrián Mayor Calderón
 + Annel Martínez Huamán
 + 
 # Foto grupal
