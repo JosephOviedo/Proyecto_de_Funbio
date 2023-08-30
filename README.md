@@ -12,6 +12,7 @@ El proyecto contará con N etapas principales:
 * ETAPA 1
 * ETAPA 2
 * ETAPA 3
+
 # Temática del proyecto
 
 # Justificación del proyecto
@@ -20,7 +21,7 @@ El proyecto contará con N etapas principales:
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
-+ d
++ 
 + Annel Martínez Huamán
 + 
 # Foto grupal
@@ -31,8 +32,9 @@ El proyecto contará con N etapas principales:
 - Umbert Lewis de la Cruz Rodriguez
 - Eder Juárez
 - Jose Alonso Cáceres del Aguila
+
 # Bibliografía
-+ [1] The Blue box es un dispositivo que ejecuta la detección del cáncer de mama de una forma similar a dispositivos médicos considerablemente más costosos y, por ende,no disponibles en la mayoría de centros clínicos. Para su funcionamiento, este dispositivo identifica la presencia de VOC’s en una muestra de orina. (https://thebluebox.ai/product/)
++ [1] The Blue box es un dispositivo que ejecuta la detección del cáncer de mama de una forma similar a dispositivos médicos considerablemente más costosos y, por ende,no disponibles en la mayoría de centros clínicos. Para su funcionamiento, este dispositivo identifica la presencia de VOC’s en una muestra de orina. (Product - the blue box biomedical solutions, S.l [Internet]. The blue Box. tbbadmin; 2023 [citado el 30 de agosto de 2023]. Disponible en: https://thebluebox.ai/product/)
 + [2] IA’s que presentan imágenes y guías para la detección detallada del tumor mamario por medio de un software, facilitando el trabajo a los radiólogos para detectar lesiones poco perceptibles.(https://www.newtral.es/inteligencia-artificial-cancer-de-mama-deteccion/20230401/)
 + [3] El algoritmo de de Ikarus está compuesto por dos pasos, el primer paso consiste en obtener dos conjuntos de marcados genéticos para clasificar las células, los genes que se encuentran en diferentes tipos de cáncer forman el conjunto de marcados tumorales, en el segundo paso consiste en el uso de marcadores genéticos para entrenar un clasificador que identifique las células como tumorales o normales, por eso se etiqueta cada célula individual según su probabilidad de ser tumoral o (normal.https://www.ingenieriabiomedica.org/post/identificaci%C3%B3n-de-c%C3%A9lulas-tumorales-a-nivel-individual-mediante-machine-learning)
 + [4] Características y funciones del azul de metileno y el lymphazurin para la creación de un mapa de los nodos linfáticos más propensos a padecer células cancerígenas o que las mismas hagan apoptosis.(https://www.sciencedirect.com/science/article/abs/pii/S0002961002009480)
