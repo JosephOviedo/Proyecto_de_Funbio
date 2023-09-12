@@ -12,7 +12,7 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 # Foto grupal
 
 # Definición de la epilepsia
-La epilepsia es un transtorno neurológico crónico no transmisible que se caracteriza por la predisposición a experimentar convulsiones recurrentes, que son episodios breves de movimiento involuntario que involucran parcial o totalmente al cuerpo de la persona que las presenta. Dichas convulsiones se deben a descargas eléctricas excesivas en un grupo de células cerebrales, ellas pueden presentarse en distintas partes del cerebro
+La epilepsia es un transtorno neurológico crónico no transmisible que se caracteriza por la predisposición a experimentar convulsiones recurrentes, es decir, episodios breves de movimiento involuntario que involucran parcial o totalmente al cuerpo de la persona que las presenta. Dichas convulsiones se deben a descargas eléctricas excesivas en un grupo de células cerebrales, ellas pueden ocurrir en distintas partes del cerebro. Asimismo, la epilepsia puede presentar distintos niveles de gravedad, sin embargo, no hay un único sistema de clasificación para esta. Por ello, se toman en cuenta distintos factores tales como la frecuencia de convulsiones, tipo de convulsiones, impacto en la calidad de vida, respuesta al tratamiento, entre otros.
 
 # Docentes del curso
 - Paulo Camilo Alberto Vela Anton
