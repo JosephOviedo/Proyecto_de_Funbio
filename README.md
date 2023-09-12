@@ -36,7 +36,10 @@ A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia di
 
 # Bibliografía
 [1] Epilepsia [Internet]. Who.int. [citado el 12 de septiembre de 2023]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
+
 [2] Radiological Society of North America (RSNA), American College of Radiology (ACR). Epilepsia [Internet]. Radiologyinfo.org. [citado el 12 de septiembre de 2023]. Disponible en: https://www.radiologyinfo.org/es/info/epilepsy
+
 [3] Burneo JG, Steven DA, Arango M, Zapata W, Vasquez CM, Becerra A. La cirugía de epilepsia y el establecimiento de programas quirúrgicos en el Perú: El proyecto de colaboración entre Perú y Canadá. Rev Neuropsiquiatr [Internet]. 2017 [citado el 12 de septiembre de 2023];80(3):181. Disponible en: http://www.scielo.org.pe/scielo.php?pid=S0034-85972017000300005&script=sci_arttext&tlng=pt
+
 [4] Epilepsia [Internet]. https://www.cun.es. [citado el 12 de septiembre de 2023]. Disponible en: https://www.cun.es/enfermedades-tratamientos/enfermedades/epilepsia
 
