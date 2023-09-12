@@ -24,7 +24,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/886600e5-3e38-44d0-a7d8-2ef4ed1d11f6)
 
 # Estadísticas
-[3]La epilepsia es la segunda condición neurológica más frecuente a nivel mundial y es categorizada como la condición neurológica con efectos mayores perjuicios a nivel mundial. En Latinoamérica, la tasa de prevalencia es considerablemente más alta si es comparada con la tasa de prevalencia de los países de hemisferio norte, que es aproximadamente de 5 a 6 por cada 1000 personas. Específicamente, en el caso de Perú, se realizó un estimado de 11,9 a 32,1 por el mismo universo de personas. 
+[3] La epilepsia es la segunda condición neurológica más frecuente a nivel mundial y es categorizada como la condición neurológica con efectos mayores perjuicios a nivel mundial. En Latinoamérica, la tasa de prevalencia es considerablemente más alta si es comparada con la tasa de prevalencia de los países de hemisferio norte, que es aproximadamente de 5 a 6 por cada 1000 personas. Específicamente, en el caso de Perú, se realizó un estimado de 11,9 a 32,1 por el mismo universo de personas. 
 A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia diagnosticada, reciben un buen seguimiento médico y tratamiento con fármacos antiepilépticos, no obstante, para el 30% de personas que no presenten ese caso, se recomienda buscar tratamientos mayores tales como la cirugía de epilepsia.
 
 # Funcionales: ¿Qué es lo que el diseño debe hacer?
