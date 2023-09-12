@@ -8,11 +8,6 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 + Annel Martínez Huamán
 + Kiara Elena Carvallo Castañeda
 + Cesar Fabricio Sanchez Campuy
-  
-# Foto grupal
-
-# Definición
-La epilepsia es un transtorno neurológico crónico no transmisible que se caracteriza por la predisposición a experimentar convulsiones recurrentes, es decir, episodios breves de movimiento involuntario que involucran parcial o totalmente al cuerpo de la persona que las presenta. Dichas convulsiones se deben a descargas eléctricas excesivas en un grupo de células cerebrales, ellas pueden ocurrir en distintas partes del cerebro. Asimismo, la epilepsia puede presentar distintos niveles de gravedad, sin embargo, no hay un único sistema de clasificación para esta. Por ello, se toman en cuenta distintos factores tales como la frecuencia de convulsiones, tipo de convulsiones, impacto en la calidad de vida, respuesta al tratamiento, entre otros.
 
 # Docentes del curso
 - Paulo Camilo Alberto Vela Anton
@@ -20,6 +15,17 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 - Umbert Lewis de la Cruz Rodriguez
 - Eder Juárez
 - Jose Alonso Cáceres del Aguila
+  
+# Foto grupal
+
+# Definición
+La epilepsia es un transtorno neurológico crónico no transmisible que se caracteriza por la predisposición a experimentar convulsiones recurrentes, es decir, episodios breves de movimiento involuntario que involucran parcial o totalmente al cuerpo de la persona que las presenta. Dichas convulsiones se deben a descargas eléctricas excesivas en un grupo de células cerebrales, ellas pueden ocurrir en distintas partes del cerebro. Asimismo, la epilepsia puede presentar distintos niveles de gravedad, sin embargo, no hay un único sistema de clasificación para esta. Por ello, se toman en cuenta distintos factores tales como la frecuencia de convulsiones, tipo de convulsiones, impacto en la calidad de vida, respuesta al tratamiento, entre otros.
+
+# Estadísticas
+
+# Funcionales: ¿Qué es lo que el diseño debe hacer?
+
+# No funcionales: ¿Cuáles son las propiedades de mi diseño?
 
 # Estado del Arte
 + The Blue box es un dispositivo que ejecuta la detección del cáncer de mama de una forma similar a dispositivos médicos considerablemente más costosos y, por ende,no disponibles en la mayoría de centros clínicos. Para su funcionamiento, este dispositivo identifica la presencia de VOC’s en una muestra de orina. [1]
