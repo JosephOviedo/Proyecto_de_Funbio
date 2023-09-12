@@ -1,9 +1,6 @@
 # Proyecto_de_Funbio G03
 Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, centrado en Señales e imágenes biomédicas
-+ Proyecto: Elaboración de un detector de cáncer de mama, el cual presenta imágenes en secciones para brindar la ubicación y tamaño del tumor.
-
-# Introducción
-El cáncer de mama es el tipo de cáncer común por ser una de las principales causas de muerte entre las mujeres. Cada año se producen en la Región más de 462.000 casos nuevos y casi 100.000 muertes por cáncer de mama. Además de tener incidencia en mujeres menores de 40-45 años de edad (aproximadamente el 30%  de los cánceres diagnosticados en mujeres se originan en la mama), debido a que las caracteristicas histopatológicas y moleculares se llegan a dar por un mal pronóstico.
++ Proyecto: Elaboración de un detector de epilepsia con el soporte de un software e imágenes biomédicas enfocado al uso en niños de (rango de edad)
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
@@ -11,7 +8,11 @@ El cáncer de mama es el tipo de cáncer común por ser una de las principales c
 + Annel Martínez Huamán
 + Kiara Elena Carvallo Castañeda
 + Cesar Fabricio Sanchez Campuy
+  
 # Foto grupal
+
+# Definición de la epilepsia
+La epilepsia es un transtorno neurológico crónico no transmisible que se caracteriza por la predisposición a experimentar convulsiones recurrentes, que son episodios breves de movimiento involuntario que involucran parcial o totalmente al cuerpo de la persona que las presenta. Dichas convulsiones se deben a descargas eléctricas excesivas en un grupo de células cerebrales, ellas pueden presentarse en distintas partes del cerebro
 
 # Docentes del curso
 - Paulo Camilo Alberto Vela Anton
