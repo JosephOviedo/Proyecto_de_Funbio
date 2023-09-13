@@ -69,6 +69,18 @@ Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection o
 2.4 Artículo relacionado: 
 Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices for seizure detection and advancing research: Focus on the Empatica wristbands. Epilepsy Res [Internet]. 2019;153:79–82. Disponible en: https://www.sciencedirect.com/science/article/pii/S0920121118305849
 
+3. mjn-SERAS
+
+3.1 Concepto
+
+3.2 Beneficio
+
+3.3 Patente
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/2e369b10-bb34-4f4c-8d1f-bddc29ca720d)
+
+
+
+
 
 # Bibliografía
 [1] Epilepsia [Internet]. Who.int. [citado el 12 de septiembre de 2023]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
