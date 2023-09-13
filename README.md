@@ -15,8 +15,6 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 - Umbert Lewis de la Cruz Rodriguez
 - Eder Juárez
 - Jose Alonso Cáceres del Aguila
-  
-# Foto grupal
 
 # Definición
 La epilepsia es un transtorno neurológico crónico no transmisible que se caracteriza por la predisposición a experimentar convulsiones recurrentes, es decir, episodios breves de movimiento involuntario que involucran parcial o totalmente al cuerpo de la persona que las presenta.[1] Dichas convulsiones se deben a descargas eléctricas excesivas en un grupo de células cerebrales, ellas pueden ocurrir en distintas partes del cerebro. [2] Existen dos tipos de principales de convulsiones y son la generalizada; que involucran todo el cerebro, y las focales; centradas en una sola parte del cerebro. Asimismo, la epilepsia puede presentar distintos niveles de gravedad, sin embargo, no hay un único sistema de clasificación para esta. Por ello, se toman en cuenta distintos factores tales como la frecuencia de convulsiones, tipo de convulsiones, impacto en la calidad de vida, respuesta al tratamiento, entre otros.
@@ -40,7 +38,9 @@ A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia di
 
 # Propuesta de solución
  Wearable capaz de leer las señales del cuerpo y el cerebro( lecturas dadas antes y durante las etapas de las convulsiones), además de almacenar e informar los datos a el doctor y paciente por medio de un app, para que así puedan dejar de lado los implantes de electrodos en la corteza cerebral y darse soluciones menos invasivas para el tratamiento.
-# Estado del arte
+ 
+# Estado del arte comercial
+
 
 
 # Bibliografía
