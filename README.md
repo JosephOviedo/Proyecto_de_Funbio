@@ -65,6 +65,8 @@ Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection o
 
 2.2 Beneficio
 - Es el único dispositivo "wearable" que combina los sensores de tipo EDA y PPG.
+- Proporciona evidencia actualizada de la efectividad respecto a las señales captadas.
+- Reduce los riesgos de muerte por los ataques epilépticos.
 
 2.3 Patente
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/2a8220a1-0bf1-4198-85da-0c9944147270)
