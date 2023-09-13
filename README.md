@@ -76,10 +76,12 @@ Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices
 3.2 Beneficio
 
 3.3 Patente
+
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/2e369b10-bb34-4f4c-8d1f-bddc29ca720d)
 
+3.4 Página de la empresa: mjn-SERAS [Internet]. mjn-neuro - Un auricular que evalúa el riesgo de crisis de epilepsia. mjn-neuro; 2017 [citado el 13 de septiembre de 2023]. Disponible en: https://mjn.cat/
 
-
+3.5 Artículo relacionado: Torres-Gaona G, Aledo-Serrano Á, García-Morales I, Toledano R, Valls J, Cosculluela B, et al. Artificial intelligence system, based on mjn-SERAS algorithm, for the early detection of seizures in patients with refractory focal epilepsy: A cross-sectional pilot study. Epilepsy Behav Rep [Internet]. 2023;22(100600):100600. Disponible en: https://www.sciencedirect.com/science/article/pii/S2589986423000187
 
 
 # Bibliografía
