@@ -40,7 +40,8 @@ A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia di
  Wearable capaz de leer las señales del cuerpo y el cerebro( lecturas dadas antes y durante las etapas de las convulsiones), además de almacenar e informar los datos a el doctor y paciente por medio de un app, para que así puedan dejar de lado los implantes de electrodos en la corteza cerebral y darse soluciones menos invasivas para el tratamiento.
  
 # Estado del arte comercial
-1. Camiseta para detectar la epilepsia
+1. Camiseta para detectar la epilepsia:
+   
 Se propuso una camiseta equipada con sensores biométricos conectados a una aplicación de un teléfono que permitirá el almencenamiento de datos. 
 Beneficios: Elimina la necesidad de que el paciente esté conectado a una máquina mucho más sofisticada y con bastantes más cables.
 A su vez, da uso a las conexiones inalámbricas en lugar que tener que usar equipos de escritorio, lo que permite un continuo análisis de datos desde cualquier lugar en cualquier momento.
