@@ -72,8 +72,11 @@ Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices
 3. mjn-SERAS
 
 3.1 Concepto
+El prototipo consta de un auricular impreso en 3D que cuantifica la actividad cerebral para alertarr al usuario en caso sea posible un riesgo de crisis de epilepsia.
 
-3.2 Beneficio
+3.2 Beneficios
+- La impresión 3D permite que el prototipo sea fabricado a medida personalizada del usuario, beneficiando su comodidad.
+- Los datos recopilados por el auricular son enviados a una aplicación en celular que permite un monitoreo constante.
 
 3.3 Patente
 
