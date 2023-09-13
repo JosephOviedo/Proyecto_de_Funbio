@@ -53,11 +53,22 @@ A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia di
 1.3 Patente
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/cb023055-c7d9-4d34-a3c6-ce15b354792c)
 
-1.4 Paper
+1.4 Paper:
 Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection of chronic insomnia from polysomnographic and clinical variables      using machine learning [Internet]. Com.au. [citado el 13 de septiembre de 2023]. Disponible en: https://arinex.com.au/EMBC/pdf/full-paper_562.pdf
 
 2. EmbracePlus
-   Se basa en 
+
+2.1 Concepto
+[6] Se basa en un brazalete con sensores diseñados para poder identificar datos de alto nivel. Este dispositivo detecta simultáneamente las medidas dela actividad del sistema nervioso simpático y frecuencia cardíaca. 
+
+2.2 Beneficio
+- Es el único dispositivo "wearable" que combina los sensores de tipo EDA y PPG.
+
+2.3 Patente
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/2a8220a1-0bf1-4198-85da-0c9944147270)
+
+2.4 Artículo relacionado: 
+Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices for seizure detection and advancing research: Focus on the Empatica wristbands. Epilepsy Res [Internet]. 2019;153:79–82. Disponible en: https://www.sciencedirect.com/science/article/pii/S0920121118305849
 
 
 # Bibliografía
@@ -71,3 +82,4 @@ Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection o
 
 [5] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
 
+[6] E4 wristband [Internet]. Empatica. [citado el 13 de septiembre de 2023]. Disponible en: https://www.empatica.com/research/e4/
