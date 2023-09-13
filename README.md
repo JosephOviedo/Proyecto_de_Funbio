@@ -26,7 +26,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia diagnosticada, reciben un buen seguimiento médico y tratamiento con fármacos antiepilépticos, no obstante, para el 30% de personas que no presenten ese caso, se recomienda buscar tratamientos mayores tales como la cirugía de epilepsia.
 
 # Funcionales: ¿Qué es lo que el diseño debe hacer?
-- Identidicación de los centros convulsivos por medio de imágenes de los lóbulos cerebrales.
+- Identificación de los centros convulsivos por medio de imágenes de los lóbulos cerebrales.
 - Informe de lo detectado apto para el entendendimiento del doctor y paciente.
 - Recepción de señales en cada instante para la toma de datos con almacenamiento de estos.
 - Ayudar a generar más campo visual para que el doctor encuentre soluciones más efectivas y probablemente menos invasivas.
