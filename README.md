@@ -40,14 +40,18 @@ A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia di
  Wearable capaz de leer las señales del cuerpo y el cerebro( lecturas dadas antes y durante las etapas de las convulsiones), además de almacenar e informar los datos a el doctor y paciente por medio de un app, para que así puedan dejar de lado los implantes de electrodos en la corteza cerebral y darse soluciones menos invasivas para el tratamiento.
  
 # Estado del arte comercial
-1. Camiseta para detectar la epilepsia:
-   
-Se propuso una camiseta equipada con sensores biométricos conectados a una aplicación de un teléfono que permitirá el almencenamiento de datos. 
+1. Camiseta para detectar la epilepsia:   
+[5] Se propuso una camiseta equipada con sensores biométricos conectados a una aplicación de un teléfono que permitirá el almencenamiento de datos. 
 Beneficios: Elimina la necesidad de que el paciente esté conectado a una máquina mucho más sofisticada y con bastantes más cables.
 A su vez, da uso a las conexiones inalámbricas en lugar que tener que usar equipos de escritorio, lo que permite un continuo análisis de datos desde cualquier lugar en cualquier momento.
-Patente:
 
+Patente:
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/cb023055-c7d9-4d34-a3c6-ce15b354792c)
+
+Paper: Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection of chronic insomnia from polysomnographic and clinical variables using machine learning [Internet]. Com.au. [citado el 13 de septiembre de 2023]. Disponible en: https://arinex.com.au/EMBC/pdf/full-paper_562.pdf
+
+2. EmbracePlus
+   Se basa en 
 
 
 # Bibliografía
@@ -58,4 +62,6 @@ Patente:
 [3] Burneo JG, Steven DA, Arango M, Zapata W, Vasquez CM, Becerra A. La cirugía de epilepsia y el establecimiento de programas quirúrgicos en el Perú: El proyecto de colaboración entre Perú y Canadá. Rev Neuropsiquiatr [Internet]. 2017 [citado el 12 de septiembre de 2023];80(3):181. Disponible en: http://www.scielo.org.pe/scielo.php?pid=S0034-85972017000300005&script=sci_arttext&tlng=pt
 
 [4] Epilepsia [Internet]. https://www.cun.es. [citado el 12 de septiembre de 2023]. Disponible en: https://www.cun.es/enfermedades-tratamientos/enfermedades/epilepsia
+
+[5] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
 
