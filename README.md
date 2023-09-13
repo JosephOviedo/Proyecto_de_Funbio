@@ -72,7 +72,8 @@ Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices
 3. mjn-SERAS
 
 3.1 Concepto
-El prototipo consta de un auricular impreso en 3D que cuantifica la actividad cerebral para alertarr al usuario en caso sea posible un riesgo de crisis de epilepsia.
+
+[7] El prototipo consta de un auricular impreso en 3D que cuantifica la actividad cerebral para alertarr al usuario en caso sea posible un riesgo de crisis de epilepsia.
 
 3.2 Beneficios
 - La impresión 3D permite que el prototipo sea fabricado a medida personalizada del usuario, beneficiando su comodidad.
@@ -99,3 +100,5 @@ El prototipo consta de un auricular impreso en 3D que cuantifica la actividad ce
 [5] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
 
 [6] E4 wristband [Internet]. Empatica. [citado el 13 de septiembre de 2023]. Disponible en: https://www.empatica.com/research/e4/
+
+[7] Torres-Gaona G, Aledo-Serrano Á, García-Morales I, Toledano R, Valls J, Cosculluela B, et al. Artificial intelligence system, based on mjn-SERAS algorithm, for the early detection of seizures in patients with refractory focal epilepsy: A cross-sectional pilot study. Epilepsy Behav Rep [Internet]. 2023;22(100600):100600. Disponible en: https://www.sciencedirect.com/science/article/pii/S2589986423000187
