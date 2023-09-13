@@ -34,6 +34,8 @@ A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia di
 # No funcionales: ¿Cuáles son las propiedades de mi diseño?
 - No invasivo para el paciente.
 - Cómodo y versátil.
+- Modelo agradable para todo público.
+- Ligero y innovador.
 - 
 
 # Propuesta de solución
