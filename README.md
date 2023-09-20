@@ -43,13 +43,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/blob/main/CAJA%20NEGRA.jpg)
 - LISTADO DE FUNCIONES
-+ REGULAR:
-+ MEDIR:
-+ PROCESAR:
-+ DIFERENCIAR:
-+ ALMACENAR:
-+ MOSTRAR:
-+ NOTIFICAR:
+- ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/blob/main/Imagenes/LISTADO%20DE%20FUNCIONES.jpg)
 
 
 # MATRIZ MORFOLÓGICA: 
