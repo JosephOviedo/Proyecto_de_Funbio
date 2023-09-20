@@ -22,7 +22,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/886600e5-3e38-44d0-a7d8-2ef4ed1d11f6)
 
 # Incidencia
-[3]En el año 2021, Perú poseía una población de aproximadamente 31 millones de personas y, de ella, se estimó que 15 500 niños nuevos presentarían epilepsia anualmente. De ellos, 3875 tendrían epilepsia activa (resistente a fármacos) y 650 requerirían cirugía. De igual modo, alrededor del 25 a 33% de los niños que presentan esta enfermedad, tienen epilepsia refractaria y, por lo menos, la mitad de ellos requieren una evaluación prequirúrgica. Se estima que alrededor de 650 niños en Perú requieren del tratamiento quirúrgico para la epilepsia anualmente, no obstante, muy poco porcentaje de ellos tienen acceso a este. Asimismo, se calcula que la lista de espera para la cirugía supera los 1 000 niños.
+[3] En el año 2021, Perú poseía una población de aproximadamente 31 millones de personas y, de ella, se estimó que 15 500 niños nuevos presentarían epilepsia anualmente. De ellos, 3875 tendrían epilepsia activa (resistente a fármacos) y 650 requerirían cirugía. De igual modo, alrededor del 25 a 33% de los niños que presentan esta enfermedad, tienen epilepsia refractaria y, por lo menos, la mitad de ellos requieren una evaluación prequirúrgica. Se estima que alrededor de 650 niños en Perú requieren del tratamiento quirúrgico para la epilepsia anualmente, no obstante, muy poco porcentaje de ellos tienen acceso a este. Asimismo, se calcula que la lista de espera para la cirugía supera los 1 000 niños.
 
 # Funcionales: ¿Qué es lo que el diseño debe hacer?
 - Identificación de los centros convulsivos por medio de imágenes de los lóbulos cerebrales.
