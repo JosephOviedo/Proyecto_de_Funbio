@@ -22,7 +22,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/886600e5-3e38-44d0-a7d8-2ef4ed1d11f6)
 
 # Incidencia
-En el año 2021, Perú poseía una población de aproximadamente 31 millones de personas y, de ella, se estimó que 15 500 niños nuevos presentarían epilepsia anualmente. De ellos, 3875 tendrían epilepsia activa (resistente a fármacos) y 650 requerirían cirugía. De igual modo, alrededor del 25 a 33% de los niños que presentan esta enfermedad, tienen epilepsia refractaria y, por lo menos, la mitad de ellos requieren una evaluación prequirúrgica. Se estima que alrededor de 650 niños en Perú requieren del tratamiento quirúrgico para la epilepsia anualmente, no obstante, muy poco porcentaje de ellos tienen acceso a este. Asimismo, se calcula que la lista de espera para la cirugía supera los 1 000 niños.
+[3]En el año 2021, Perú poseía una población de aproximadamente 31 millones de personas y, de ella, se estimó que 15 500 niños nuevos presentarían epilepsia anualmente. De ellos, 3875 tendrían epilepsia activa (resistente a fármacos) y 650 requerirían cirugía. De igual modo, alrededor del 25 a 33% de los niños que presentan esta enfermedad, tienen epilepsia refractaria y, por lo menos, la mitad de ellos requieren una evaluación prequirúrgica. Se estima que alrededor de 650 niños en Perú requieren del tratamiento quirúrgico para la epilepsia anualmente, no obstante, muy poco porcentaje de ellos tienen acceso a este. Asimismo, se calcula que la lista de espera para la cirugía supera los 1 000 niños.
 
 # Funcionales: ¿Qué es lo que el diseño debe hacer?
 - Identificación de los centros convulsivos por medio de imágenes de los lóbulos cerebrales.
@@ -43,7 +43,7 @@ En el año 2021, Perú poseía una población de aproximadamente 31 millones de 
 1. Camiseta para detectar la epilepsia:
 
 1.1 Concepto  
-[5] Se propuso una camiseta equipada con sensores biométricos conectados a una aplicación de un teléfono que permitirá el almencenamiento de datos.
+[4] Se propuso una camiseta equipada con sensores biométricos conectados a una aplicación de un teléfono que permitirá el almencenamiento de datos.
 
 1.2 Beneficios
 - Elimina la necesidad de que el paciente esté conectado a una máquina mucho más sofisticada y con bastantes más cables.
@@ -59,7 +59,7 @@ Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection o
 2. EmbracePlus
 
 2.1 Concepto
-[6] Se basa en un brazalete con sensores diseñados para poder identificar datos de alto nivel. Este dispositivo detecta simultáneamente las medidas dela actividad del sistema nervioso simpático y frecuencia cardíaca. 
+[5] Se basa en un brazalete con sensores diseñados para poder identificar datos de alto nivel. Este dispositivo detecta simultáneamente las medidas dela actividad del sistema nervioso simpático y frecuencia cardíaca. 
 
 2.2 Beneficio
 - Es el único dispositivo "wearable" que combina los sensores de tipo EDA y PPG.
@@ -76,7 +76,7 @@ Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices
 
 3.1 Concepto
 
-[7] El prototipo consta de un auricular impreso en 3D que cuantifica la actividad cerebral para alertarr al usuario en caso sea posible un riesgo de crisis de epilepsia.
+[6] El prototipo consta de un auricular impreso en 3D que cuantifica la actividad cerebral para alertarr al usuario en caso sea posible un riesgo de crisis de epilepsia.
 
 3.2 Beneficios
 - La impresión 3D permite que el prototipo sea fabricado a medida personalizada del usuario, beneficiando su comodidad.
@@ -96,12 +96,10 @@ Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices
 
 [2] Radiological Society of North America (RSNA), American College of Radiology (ACR). Epilepsia [Internet]. Radiologyinfo.org. [citado el 12 de septiembre de 2023]. Disponible en: https://www.radiologyinfo.org/es/info/epilepsy
 
-[3] 
+[3] Campos M, Ríos L, Solari F, Varela X, Otayza F. Consideraciones quirúrgicas propias de la epilepsia en niños, comentarios sobre Perú. Rev Neuropsiquiatr [Internet]. 2015 [citado el 20 de septiembre de 2023];78(3):130–9. Disponible en: http://www.scielo.org.pe/scielo.php?pid=S0034-85972015000300003&script=sci_arttext
 
-[4] 
+[4] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
 
-[5] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
+[5] E4 wristband [Internet]. Empatica. [citado el 13 de septiembre de 2023]. Disponible en: https://www.empatica.com/research/e4/
 
-[6] E4 wristband [Internet]. Empatica. [citado el 13 de septiembre de 2023]. Disponible en: https://www.empatica.com/research/e4/
-
-[7] Torres-Gaona G, Aledo-Serrano Á, García-Morales I, Toledano R, Valls J, Cosculluela B, et al. Artificial intelligence system, based on mjn-SERAS algorithm, for the early detection of seizures in patients with refractory focal epilepsy: A cross-sectional pilot study. Epilepsy Behav Rep [Internet]. 2023;22(100600):100600. Disponible en: https://www.sciencedirect.com/science/article/pii/S2589986423000187
+[6] Torres-Gaona G, Aledo-Serrano Á, García-Morales I, Toledano R, Valls J, Cosculluela B, et al. Artificial intelligence system, based on mjn-SERAS algorithm, for the early detection of seizures in patients with refractory focal epilepsy: A cross-sectional pilot study. Epilepsy Behav Rep [Internet]. 2023;22(100600):100600. Disponible en: https://www.sciencedirect.com/science/article/pii/S2589986423000187
