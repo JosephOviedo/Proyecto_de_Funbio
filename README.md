@@ -64,6 +64,7 @@ Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection o
 Empatica.com. [citado el 20 de septiembre de 2023]. Disponible en: https://www.empatica.com/assets/images/e4/2/e4-perspective-back-trasp-xhdpi.jpg
 
 2.1 Concepto
+
 [5] Se basa en un brazalete con sensores diseñados para poder identificar datos de alto nivel. Este dispositivo detecta simultáneamente las medidas dela actividad del sistema nervioso simpático y frecuencia cardíaca. 
 
 2.2 Beneficio
