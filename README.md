@@ -42,6 +42,9 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 # Estado del arte comercial
 1. WEMU:
 
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/6b918c02-4b87-4b7b-b24a-4e37a7ecc3cb)
+
+
 1.1 Concepto  
 [4] Se propuso una camiseta equipada con sensores biométricos conectados a una aplicación de un teléfono que permitirá el almencenamiento de datos.
 
