@@ -83,6 +83,8 @@ Empatica.com. [citado el 20 de septiembre de 2023]. Disponible en: https://www.e
 2.3 Patente
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/2a8220a1-0bf1-4198-85da-0c9944147270)
 
+OMPI – Búsqueda en las colecciones de patentes nacionales e internacionales [Internet]. Wipo.int. [citado el 20 de septiembre de 2023]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=CN370168613&_cid=P12-LMH5VE-26802-4
+
 
 2.4 Artículo relacionado: 
 Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices for seizure detection and advancing research: Focus on the Empatica wristbands. Epilepsy Res [Internet]. 2019;153:79–82. Disponible en: https://www.sciencedirect.com/science/article/pii/S0920121118305849
