@@ -22,8 +22,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/886600e5-3e38-44d0-a7d8-2ef4ed1d11f6)
 
 # Incidencia
-[3] La epilepsia es la segunda condición neurológica más frecuente a nivel mundial y es categorizada como la condición neurológica con mayores perjuicios a nivel mundial. En Latinoamérica, la tasa de prevalencia es considerablemente más alta si es comparada con la tasa de prevalencia de los países de hemisferio norte, que es aproximadamente de 5 a 6 por cada 1000 personas. Específicamente, en el caso de Perú, se realizó un estimado de 11,9 a 32,1 por el mismo universo de personas. 
-A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia diagnosticada, reciben un buen seguimiento médico y tratamiento con fármacos antiepilépticos, no obstante, para el 30% de personas que no presenten ese caso, se recomienda buscar tratamientos mayores tales como la cirugía de epilepsia.
+En el año 2021, Perú poseía una población de aproximadamente 31 millones de personas y, de ella, se estimó que 15 500 niños nuevos presentarían epilepsia anualmente. De ellos, 3875 tendrían epilepsia activa (resistente a fármacos) y 650 requerirían cirugía. Alrededor del 25 a 33% de los niños que presentan esta enfermedad, tienen epilepsia refractaria y, por lo menos, la mitad de ellos requieren una evaluación prequirúrgica. Se estima que alrededor de 650 niños en Perú requieren del tratamiento quirúrgico para la epilepsia anualmente, no obstante, muy poco porcentaje de ellos tienen acceso a este. Asimismo, se calcula que la lista de espera para la cirugía supera los 1 000 niños.
 
 # Funcionales: ¿Qué es lo que el diseño debe hacer?
 - Identificación de los centros convulsivos por medio de imágenes de los lóbulos cerebrales.
@@ -35,7 +34,6 @@ A su vez, es relevante mencionar que [4] el 70% de las personas con epilepsia di
 - No invasivo para el paciente.
 - Cómodo y versátil.
 - Fácil de transportar.
-- Innovador.
 
 
 # Propuesta de solución
@@ -98,9 +96,9 @@ Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices
 
 [2] Radiological Society of North America (RSNA), American College of Radiology (ACR). Epilepsia [Internet]. Radiologyinfo.org. [citado el 12 de septiembre de 2023]. Disponible en: https://www.radiologyinfo.org/es/info/epilepsy
 
-[3] Burneo JG, Steven DA, Arango M, Zapata W, Vasquez CM, Becerra A. La cirugía de epilepsia y el establecimiento de programas quirúrgicos en el Perú: El proyecto de colaboración entre Perú y Canadá. Rev Neuropsiquiatr [Internet]. 2017 [citado el 12 de septiembre de 2023];80(3):181. Disponible en: http://www.scielo.org.pe/scielo.php?pid=S0034-85972017000300005&script=sci_arttext&tlng=pt
+[3] 
 
-[4] Epilepsia [Internet]. https://www.cun.es. [citado el 12 de septiembre de 2023]. Disponible en: https://www.cun.es/enfermedades-tratamientos/enfermedades/epilepsia
+[4] 
 
 [5] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
 
