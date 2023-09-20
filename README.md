@@ -60,6 +60,7 @@ Hanif U, Gimenez U, Cairns A, Lewin D, Ashraf N, Mignot E. Automatic detection o
 
    
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/249878e6-76df-47d8-994e-b5f4389513bd)
+
 Empatica.com. [citado el 20 de septiembre de 2023]. Disponible en: https://www.empatica.com/assets/images/e4/2/e4-perspective-back-trasp-xhdpi.jpg
 
 2.1 Concepto
