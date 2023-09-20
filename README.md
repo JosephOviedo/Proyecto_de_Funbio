@@ -44,6 +44,8 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/6b918c02-4b87-4b7b-b24a-4e37a7ecc3cb)
 
+Rivero E. WEMU: La camiseta que detecta convulsiones [Internet]. unocero. 2014 [citado el 20 de septiembre de 2023]. Disponible en: https://www.unocero.com/noticias/wemu-la-camiseta-que-detecta-convulsiones/
+
 
 1.1 Concepto  
 [4] Se propuso una camiseta equipada con sensores biométricos conectados a una aplicación de un teléfono que permitirá el almencenamiento de datos.
