@@ -79,6 +79,11 @@ Regalia G, Onorati F, Lai M, Caborni C, Picard RW. Multimodal wrist-worn devices
 
 3. mjn-SERAS
 
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/d4f42d58-6b3f-41f8-92db-a7f87c4be7cf)
+
+Els-cdn.com. [citado el 20 de septiembre de 2023]. Disponible en: https://ars.els-cdn.com/content/image/1-s2.0-S2589986423000187-gr2.jpg
+
+
 3.1 Concepto
 
 [6] El prototipo consta de un auricular impreso en 3D que cuantifica la actividad cerebral para alertarr al usuario en caso sea posible un riesgo de crisis de epilepsia.
