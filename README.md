@@ -41,7 +41,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 
 # Caja negra y esquema de funciones
 
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/blob/main/CAJA%20NEGRA.jpg)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/aa5742e8-c89d-4b3d-b787-1ecd7874c1db)
 
 - LISTADO DE FUNCIONES
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/80d9a237-0fec-4645-82f4-56c866044905)
