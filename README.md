@@ -64,6 +64,15 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 - La batería es recargable.
 - Su microcontrolador presenta señal de Wifi.
 - El control se realiza mediante una aplicación de un dispositivo móvil, aportando así, en la facilidad de su uso.
+
+# Tabla de valoración técnica y económica:
+- Matrices de evaluación - Evaluación técnica (Xi)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/bd1c207d-ec11-4485-be5f-0da94c34f955)
+- Matrices de evaluación - Evaluación económica (Yi)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/663ca1a5-9077-44ae-a3ef-2ec0355f123d)
+- Proyecto óptimo
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/35f83836-4945-409d-9ffe-f3609bc6ede3)
+
   
 # Estado del arte comercial
 1. WEMU:
