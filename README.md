@@ -53,9 +53,15 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 
 # TABLA DE VALORACIÓN:
 ![Imagen de WhatsApp 2023-09-19 a las 22 52 49](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/faa3a22a-e7b1-43fb-9755-c6ca53ff16fe)
+
 # CONCLUSIÓN
 La propuesta numero 2 fue la ganadora por su fácil accesibilidad al estar conectado a un dispositivo móvil, su batería recargable y el velcro conductor que haría que el usuario al ponerse la prenda se active por si sola.
- 
+
+Debido a los componentes utilizados, se concluyó que la propuesta número dos es la más óptima para nuestro prototipo, ello debido a las siguientes razones:
+- La batería es recargable.
+- Su microcontrolador presenta señal de Wifi.
+- El control se realiza mediante una aplicación de un dispositivo móvil, aportando así, en la facilidad de su uso.
+  
 # Estado del arte comercial
 1. WEMU:
 
