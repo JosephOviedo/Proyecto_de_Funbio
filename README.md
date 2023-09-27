@@ -50,7 +50,8 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/83207471-64d8-4246-9a0e-97356ddb4ecc)
 
 
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bbd262e5-2dc6-4b6b-b142-153d041ab84c)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/c889d38c-60d5-43dc-992d-ebab2e07ca12)
+
 
 # TABLA DE VALORACIÓN:
 ![Imagen de WhatsApp 2023-09-19 a las 22 52 49](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/faa3a22a-e7b1-43fb-9755-c6ca53ff16fe)
