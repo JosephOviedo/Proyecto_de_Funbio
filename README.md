@@ -98,6 +98,9 @@ Descripción:
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/fd9516f5-5add-46f7-b1c0-e1bb04fa02ff)
 
+![WhatsApp Image 2023-10-18 at 12 54 58_7cc8ba3f](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf02106a-a5a2-4c60-bd14-5b4b5775668d)
+
+
 # MODELADO 3D
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/3f523882-4cb3-4900-9e8a-6395ea69b186)
