@@ -67,11 +67,11 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 
 # Tabla de valoración técnica y económica:
 - Matrices de evaluación - Evaluación técnica (Xi)
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/bd1c207d-ec11-4485-be5f-0da94c34f955)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/89586985-1063-4fba-845f-487817102a9f)
 - Matrices de evaluación - Evaluación económica (Yi)
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/663ca1a5-9077-44ae-a3ef-2ec0355f123d)
 - Proyecto óptimo
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/35f83836-4945-409d-9ffe-f3609bc6ede3)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/b794c797-114f-472c-b1b1-81c6d9500222)
 
 # Bocetos
 ![image]
