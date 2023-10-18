@@ -95,6 +95,7 @@ Descripción:
  En este dispositivo se puede recoger algunas señales eléctricas del cerebro por medio de los sensores EEG que se ubicarán alrededor de la diadema, con una batería de litio para el funcionamiento de ellas; también habrá un botón de encendido para las luces led para la activación general del wearable.
 
 # ELECTRÓNICA
+file:///C:/Users/kikii/AppData/Local/Microsoft/Windows/INetCache/IE/L6KR3RKJ/Schematic_EEG%20Arduino_2023-10-17[1].pdf
 
 
 # Estado del arte comercial
