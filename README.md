@@ -84,7 +84,8 @@ Descripción:
 ![WhatsApp Image 2023-10-18 at 12 06 24_a1017bd2](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/e955d324-94bc-4343-aad3-624309f127de)
 
 ![WhatsApp Image 2023-10-18 at 11 41 32_192e661f](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/c3972fdc-1420-4814-bba0-715b2432725c)
-
+Descripción:
+ Semicasco que recepciona las señales eléctricas del cerebro por cada sensor EEG colocado, con batería de litio ubicada por la nuca, además de presentar botón de encendido y luces led como forma de alerta al cambio de color.
 
 ![WhatsApp Image 2023-10-18 at 12 06 25_6d3d6f89](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7af7c2f8-31c3-455e-9f17-d3f5a5ca811b)
 
