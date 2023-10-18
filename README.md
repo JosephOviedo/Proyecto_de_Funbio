@@ -1,6 +1,6 @@
 # Proyecto_de_Funbio G03
 Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, centrado en Señales e imágenes biomédicas
-+ Proyecto: Elaboración de un detector de epilepsia con el soporte de un software e imágenes biomédicas enfocado al uso en niños de (rango de edad)
++ Proyecto: Elaboración de un detector de epilepsia del tipo tónico- clónica, con el soporte de un software e imágenes biomédicas enfocado al uso en niños de (rango de edad)
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
@@ -22,13 +22,13 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/886600e5-3e38-44d0-a7d8-2ef4ed1d11f6)
 
 # Incidencia
-[3] En el año 2021, Perú poseía una población de aproximadamente 31 millones de personas y, de ella, se estimó que 15 500 niños nuevos presentarían epilepsia anualmente. De ellos, 3875 tendrían epilepsia activa (resistente a fármacos) y 650 requerirían cirugía. De igual modo, alrededor del 25 a 33% de los niños que presentan esta enfermedad, tienen epilepsia refractaria y, por lo menos, la mitad de ellos requieren una evaluación prequirúrgica. Se estima que alrededor de 650 niños en Perú requieren del tratamiento quirúrgico para la epilepsia anualmente, no obstante, muy poco porcentaje de ellos tienen acceso a este. Asimismo, se calcula que la lista de espera para la cirugía supera los 1 000 niños.
+[3] 
 
 # Funcionales: ¿Qué es lo que el diseño debe hacer?
 - Identificación de los centros convulsivos por medio de imágenes de los lóbulos cerebrales.
-- Informe de lo detectado apto para el entendendimiento del doctor y paciente.
+- Informe de lo detectado apto para el entendendimiento del doctor y el tutor del paciente.
 - Recepción de señales en cada instante para la toma de datos con almacenamiento de estos.
-- Ayudar a generar más campo visual para que el doctor encuentre soluciones más efectivas y probablemente menos invasivas.
+- Ayudar a generar más campo visual para que el doctor para que encuentre soluciones un mejor tratamiento.
   
 # No funcionales: ¿Cuáles son las propiedades de mi diseño?
 - No invasivo para el paciente.
@@ -37,7 +37,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 - Ergonómico.
 
 # Propuesta de solución
- Wearable centrado en la epilepsia tipo "pequeño mal", capaz de leer las señales del cuerpo y el cerebro (lecturas dadas antes y durante las etapas de las convulsiones), además de almacenar datos en la nube e informar los resultados al doctor encargado y paciente por medio de un aplicación móvil. 
+ Wearable centrado en la epilepsia tipo "tónico-clónica", capaz de leer las señales del cuerpo y el cerebro (lecturas dadas antes y durante las etapas de las convulsiones), además de almacenar datos en la nube e informar los resultados al doctor encargado y paciente por medio de un aplicación móvil. 
 
 # Caja negra y esquema de funciones
 
@@ -73,7 +73,9 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 - Proyecto óptimo
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/35f83836-4945-409d-9ffe-f3609bc6ede3)
 
-  
+# Bocetos
+![image]
+
 # Estado del arte comercial
 1. WEMU:
 
