@@ -65,7 +65,7 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 - Su microcontrolador presenta señal de Wifi.
 - El control se realiza mediante una aplicación de un dispositivo móvil, aportando así, en la facilidad de su uso.
 
-# Tabla de valoración técnica y económica:
+# TABLA DE VALORACIÓN TÉCNICA Y ECONÓMICA:
 - Matrices de evaluación - Evaluación técnica (Xi)
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/89586985-1063-4fba-845f-487817102a9f)
 - Matrices de evaluación - Evaluación económica (Yi)
@@ -89,6 +89,7 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 
 ![WhatsApp Image 2023-10-18 at 11 41 33_0e9d09f3](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/d3e0eed3-cc6c-4156-9cea-4477b97a8de0)
 
+# ELECTRÓNICA
 
 
 # Estado del arte comercial
