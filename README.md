@@ -98,6 +98,12 @@ Descripción:
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/fd9516f5-5add-46f7-b1c0-e1bb04fa02ff)
 
+# MODELADO 3D
+
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/3f523882-4cb3-4900-9e8a-6395ea69b186)
+
+
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/e6116f49-02ba-4156-b0cf-b18cbba5f5bd)
 
 
 
