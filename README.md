@@ -158,7 +158,7 @@ WIPO - search international and national patent collections [Internet]. Wipo.int
 
 [2] Radiological Society of North America (RSNA), American College of Radiology (ACR). Epilepsia [Internet]. Radiologyinfo.org. [citado el 12 de septiembre de 2023]. Disponible en: https://www.radiologyinfo.org/es/info/epilepsy
 
-[3] Campos M, Ríos L, Solari F, Varela X, Otayza F. Consideraciones quirúrgicas propias de la epilepsia en niños, comentarios sobre Perú. Rev Neuropsiquiatr [Internet]. 2015 [citado el 20 de septiembre de 2023];78(3):130–9. Disponible en: http://www.scielo.org.pe/scielo.php?pid=S0034-85972015000300003&script=sci_arttext
+[3] Juan Jerez. Las principales fenomenologías y frecuencias sobre epilepsias. Rev Gicos [Internet]. 2015 [citado el 20 de septiembre de 2023];78(3):130–9. Disponible en: http://portal.amelica.org/ameli/journal/351/3514271004/html/
 
 [4] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
 
