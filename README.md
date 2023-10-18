@@ -82,7 +82,12 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 
 ![WhatsApp Image 2023-10-18 at 12 06 24_a1017bd2](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/e955d324-94bc-4343-aad3-624309f127de)
 
+![WhatsApp Image 2023-10-18 at 11 41 32_192e661f](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/c3972fdc-1420-4814-bba0-715b2432725c)
+
+
 ![WhatsApp Image 2023-10-18 at 12 06 25_6d3d6f89](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7af7c2f8-31c3-455e-9f17-d3f5a5ca811b)
+
+![WhatsApp Image 2023-10-18 at 11 41 33_0e9d09f3](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/d3e0eed3-cc6c-4156-9cea-4477b97a8de0)
 
 
 
