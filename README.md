@@ -89,8 +89,9 @@ Descripción:
 ![WhatsApp Image 2023-10-18 at 12 06 25_6d3d6f89](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7af7c2f8-31c3-455e-9f17-d3f5a5ca811b)
 
 ![WhatsApp Image 2023-10-18 at 11 41 33_0e9d09f3](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/d3e0eed3-cc6c-4156-9cea-4477b97a8de0)
+ 
 Descripción:
-En este dispositivo se puede recoger algunas señales eléctricas del cerebro por medio de los sensores EEG que se ubicarán alrededor de la diadema, con una batería de litio para el funcionamiento de ellas; también habrá un botón de encendido para las luces led para la activación general del wearable.
+ En este dispositivo se puede recoger algunas señales eléctricas del cerebro por medio de los sensores EEG que se ubicarán alrededor de la diadema, con una batería de litio para el funcionamiento de ellas; también habrá un botón de encendido para las luces led para la activación general del wearable.
 
 # ELECTRÓNICA
 
