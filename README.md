@@ -22,7 +22,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/886600e5-3e38-44d0-a7d8-2ef4ed1d11f6)
 
 # Incidencia
-[3] 
+[3] La crisis motora generalizada tónico-clónica se da con la pérdida de la conciencia, sacudidas musculares o clonías (convulsiones) que suelen durar de 1 a 3 minutos; además, presenta dificultades para respirar y la disminución de la frecuencia cardiaca. En un estudio con 134 pacientes (62,9%) presentando crisis de inicio generalizado, la gran mayoría presentó manifestaciones motoras puras (97,8%), y dentro de este porcentaje siendo las más frecuentes las crisis motoras tónico-clónicas (92,5%); siendo pacientes de entre los 20 a 33 años los más frecuentes al sufrir esta crisis motora.
 
 # Funcionales: ¿Qué es lo que el diseño debe hacer?
 - Identificación de los centros convulsivos por medio de imágenes de los lóbulos cerebrales.
