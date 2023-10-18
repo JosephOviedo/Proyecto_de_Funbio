@@ -74,12 +74,12 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/b794c797-114f-472c-b1b1-81c6d9500222)
 
 # Bocetos
-![image]
+
 
 # Estado del arte comercial
 1. WEMU:
 
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/6b918c02-4b87-4b7b-b24a-4e37a7ecc3cb)
+![imahttps://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/6b918c02-4b87-4b7b-b24a-4e37a7ecc3cb)
 
 Rivero E. WEMU: La camiseta que detecta convulsiones [Internet]. unocero. 2014 [citado el 20 de septiembre de 2023]. Disponible en: https://www.unocero.com/noticias/wemu-la-camiseta-que-detecta-convulsiones/
 
