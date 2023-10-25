@@ -54,7 +54,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 
 
 # TABLA DE VALORACIÓN:
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/c787b328-b8d5-4f20-94e2-99acf1821485)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/36b27d24-6f83-4c8f-9d87-194326c8b4b8)
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/235b9a82-f550-41fc-b1fb-dd1121fda96a)
 
@@ -69,7 +69,8 @@ Debido a los componentes utilizados, se concluyó que la propuesta número dos e
 
 # TABLA DE VALORACIÓN TÉCNICA Y ECONÓMICA:
 - Matrices de evaluación - Evaluación técnica (Xi)
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/89586985-1063-4fba-845f-487817102a9f)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/122c66b3-d841-48de-bd72-5118551096a7)
+
 - Matrices de evaluación - Evaluación económica (Yi)
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/663ca1a5-9077-44ae-a3ef-2ec0355f123d)
 - Proyecto óptimo
