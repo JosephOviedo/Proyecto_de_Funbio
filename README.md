@@ -184,6 +184,8 @@ WIPO - search international and national patent collections [Internet]. Wipo.int
 
 3.5 Artículo relacionado: Torres-Gaona G, Aledo-Serrano Á, García-Morales I, Toledano R, Valls J, Cosculluela B, et al. Artificial intelligence system, based on mjn-SERAS algorithm, for the early detection of seizures in patients with refractory focal epilepsy: A cross-sectional pilot study. Epilepsy Behav Rep [Internet]. 2023;22(100600):100600. Disponible en: https://www.sciencedirect.com/science/article/pii/S2589986423000187
 
+# Link del canva:
+https://www.canva.com/design/DAFyH7cfZmE/LtR2oavwVL2yrOP0jYjy4w/edit
 
 # Bibliografía
 [1] Epilepsia [Internet]. Who.int. [citado el 12 de septiembre de 2023]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
