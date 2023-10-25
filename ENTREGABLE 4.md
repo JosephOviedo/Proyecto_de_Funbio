@@ -18,3 +18,12 @@ Descripción:
  
 Descripción:
  En este dispositivo se puede recoger algunas señales eléctricas del cerebro por medio de los sensores EEG que se ubicarán alrededor de la diadema, con una batería de litio para el funcionamiento de ellas; también habrá un botón de encendido para las luces led para la activación general del wearable.
+
+# TABLA DE VALORACIÓN TÉCNICA Y ECONÓMICA:
+- Matrices de evaluación - Evaluación técnica (Xi)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/122c66b3-d841-48de-bd72-5118551096a7)
+
+- Matrices de evaluación - Evaluación económica (Yi)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/663ca1a5-9077-44ae-a3ef-2ec0355f123d)
+- Proyecto óptimo
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/b794c797-114f-472c-b1b1-81c6d9500222)
