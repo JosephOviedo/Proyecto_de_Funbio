@@ -49,9 +49,7 @@ La epilepsia es un transtorno neurológico crónico no transmisible que se carac
 
 # MATRIZ MORFOLÓGICA: 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/83207471-64d8-4246-9a0e-97356ddb4ecc)
-
-
-![Uploading image.png…]()
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/724f313f-9545-4176-931a-3a9b12cb7291)
 
 
 # TABLA DE VALORACIÓN:
