@@ -108,9 +108,6 @@ Descripción:
 ![WhatsApp Image 2023-10-25 at 00 22 48_54973628](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/35490d72-2409-4b9c-9d24-732d945301b3)
 
 
-https://cad.onshape.com/documents/fd8b8d46c5dec7b4c76d455b/w/1cb4d29cb7d36465d59ada63/e/4051f1ba67ce73b24765675c
-
-
 # Estado del arte comercial
 1. WEMU:
 
