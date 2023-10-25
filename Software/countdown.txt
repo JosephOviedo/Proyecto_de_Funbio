@@ -1,0 +1,58 @@
+#include <SevSeg.h>
+
+SevSeg sevseg;  // Crea una instancia de SevSeg
+
+const int buttonPin = A0;  // Pin del botón
+const int displayPin = 7; // Pin de datos del display de 7 segmentos
+const int buzzerPin = A4;  // Pin del buzzer
+
+unsigned long startTime = 0; // Tiempo en el que se presionó el botón
+unsigned long elapsedTime = 0; // Tiempo transcurrido
+const unsigned long countdownDuration = 5 * 60 * 1000UL; // 5 minutos en milisegundos
+
+bool timerRunning = false;
+
+void setup() {
+  byte numDigits = 4;
+  byte digitPins[] = {10, 11, 12, 13}; // Conecta los pines de los dígitos (excluyendo el pin 2)
+  byte segmentPins[] = {9, 2, 3, 5, 6, 8, 7, 4}; // Conecta los pines de los segmentos
+  sevseg.begin(COMMON_CATHODE, numDigits, digitPins, segmentPins);
+  sevseg.setBrightness(90);
+  
+  pinMode(buttonPin, INPUT_PULLUP);
+  pinMode(buzzerPin, OUTPUT);  // Configura el pin del buzzer como salida
+  noTone(buzzerPin); // Asegúrate de que el buzzer esté en silencio al principio
+  sevseg.refreshDisplay();
+}
+
+void loop() {
+  if (digitalRead(buttonPin) == LOW && !timerRunning) {
+    startTime = millis();
+    timerRunning = true;
+  }
+
+  if (timerRunning) {
+    elapsedTime = millis() - startTime;
+    
+    if (elapsedTime >= countdownDuration) {
+      timerRunning = false;
+      tone(buzzerPin, 500);  // Activa el buzzer
+      delay(2000);  // Sonido durante 1 segundo
+      noTone(buzzerPin);  // Apaga el buzzer
+    }
+  }
+
+  if (timerRunning) {
+    unsigned long remainingTime = countdownDuration - elapsedTime;
+    int minutes = remainingTime / 60000;
+    int seconds = (remainingTime % 60000) / 1000;
+
+    // Actualizar el display de 7 segmentos
+    sevseg.setNumber(minutes * 100 + seconds, 2);
+    sevseg.refreshDisplay();
+  } else {
+    // Si el temporizador ha terminado, muestra 0 en el display
+    sevseg.setNumber(0, 2);
+    sevseg.refreshDisplay();
+  }
+}
