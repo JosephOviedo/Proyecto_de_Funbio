@@ -10,3 +10,7 @@ Diagrama de flujo del arduino
 
 Diagrama de flujo de la aplicación
 
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/062e33d2-9f27-43f7-800d-27c8ee0bf758)
+Link de la aplicación
+https://ai2.appinventor.mit.edu/#5317465841991680
+
