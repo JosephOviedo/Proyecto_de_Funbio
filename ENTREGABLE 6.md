@@ -7,3 +7,6 @@ Diagrama de flujo del usuario
 Diagrama de flujo del arduino
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/b8166a93-a28c-4a34-9a4e-c97318eaeafb)
+
+Diagrama de flujo de la aplicación
+
