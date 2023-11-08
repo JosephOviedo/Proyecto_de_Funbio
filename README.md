@@ -18,6 +18,8 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 
 # Link del canva:
 https://www.canva.com/design/DAFyH7cfZmE/LtR2oavwVL2yrOP0jYjy4w/edit
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/blob/main/Imagenes/IMG_0328.jpeg)
+
 
 # Bibliografía
 [1] Epilepsia [Internet]. Who.int. [citado el 12 de septiembre de 2023]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
