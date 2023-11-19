@@ -14,6 +14,9 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 + Unidad Didáctica 3: Implementar la solución
 + Unidad Didáctica 4: Comunicar los resultados
 
+# Materiales
+
+
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
 + Adrián Mayor Calderón
