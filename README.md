@@ -19,6 +19,9 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 # Temática del proyecto
 La elaboración de un detector de convulsiones de tipo tónico-clónicas con el soporte de un software e imágenes biomédicas enfocado al uso en pacientes de entre 20 a 33 años de edad.
 
+# Justificación del proyecto
+
+
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
 + Adrián Mayor Calderón
