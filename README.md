@@ -21,6 +21,7 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 | MPU6050     | Sensor de movimiento de seis grados de libertad (6DOF) que combina un acelerómetro y giroscopio en un solo chip, este está diseñado para medir la aceleración lineal y la velocidad angular en tres ejes espaciales.      | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf56bb37-f404-41f2-a6c4-8d3f6d2c2a11)|
 | Buzzer | Dispositivo electromecánico que produce un sonido continuo o intermitente cuando se le aplica una corriente eléctrica. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/60b4de44-b8a2-4308-8791-24c1bbeec786) |
 | Batería de litio |  Dispositivos electroquímicos que utilizan litio como uno de los electrodos en su proceso de generación de energía, estas baterías se han vuelto muy populares debido a su alta densidad de energía, larga vida útil y versatilidad en aplicaciones | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/34aaf2b7-bc3b-4170-b106-2b2e621b7396) |
+| Electrodos secos del ultracortex de peine | El electrodo seco tiene un disco tentáculo, que es simplemente como los dientes de un peine. Puede resolver eficazmente el problema del electrodo y para el ajuste de la piel, los electrodos secos comunes no pueden hacer esto. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/835c7c2f-9bf1-42d8-b345-1d10923994e5) |
 
 
 # Temática del proyecto
