@@ -15,10 +15,11 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 + Unidad Didáctica 4: Comunicar los resultados
 
 # Materiales
-| Materiales  | Descripción |
+| Materiales  | Descripción | Imagen | 
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
 
 
 # Temática del proyecto
