@@ -17,10 +17,8 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 # Materiales
 | Material | Descripción | Imagen |
 | :---:  |     :---:      |          ---: |
-| ESP32   | Microcontrolador de bajo costo y consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), específicamente diseñado para aplicaciones de Internet de las cosas (IoT) y proyectos embebidos.    | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7a01fb53-77f7-4508-b414-ce4de92cb7dc)
-   |
-| MPU6050     | Sensor de movimiento de seis grados de libertad (6DOF) que combina un acelerómetro y giroscopio en un solo chip, este está diseñado para medir la aceleración lineal y la velocidad angular en tres ejes espaciales.      | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf56bb37-f404-41f2-a6c4-8d3f6d2c2a11)
-     |
+| ESP32   | Microcontrolador de bajo costo y consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), específicamente diseñado para aplicaciones de Internet de las cosas (IoT) y proyectos embebidos.    | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7a01fb53-77f7-4508-b414-ce4de92cb7dc)  |
+| MPU6050     | Sensor de movimiento de seis grados de libertad (6DOF) que combina un acelerómetro y giroscopio en un solo chip, este está diseñado para medir la aceleración lineal y la velocidad angular en tres ejes espaciales.      | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf56bb37-f404-41f2-a6c4-8d3f6d2c2a11)|
 
 # Temática del proyecto
 La elaboración de un detector de convulsiones de tipo tónico-clónicas con el soporte de un software e imágenes biomédicas enfocado al uso en pacientes de entre 20 a 33 años de edad.
