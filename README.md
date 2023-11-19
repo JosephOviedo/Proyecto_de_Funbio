@@ -16,9 +16,9 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 
 # Materiales
 | Material | Descripción | Imagen |
-| ------------- | ------------- | fghj |
-| Content Cell  | Content Cell  |ghjkhm |
-| Content Cell  | Content Cell  | gghjk|
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 
 # Temática del proyecto
