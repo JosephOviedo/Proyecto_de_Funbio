@@ -15,7 +15,7 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 + Unidad Didáctica 4: Comunicar los resultados
 
 # Materiales
-| First Header  | Second Header |
+| Materiales  | Descripción |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
