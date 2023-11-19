@@ -9,7 +9,10 @@ Las convulsiones tónico-clónicas, también conocidas como convulsiones de gran
 Este curso introduce los conocimientos necesarios para el desarrollo de proyectos en el campo de la ingeniería mediante el diseño de soluciones destinadas a abordar requerimientos en el área de la salud. Esto se logra a través de la aplicación del proceso de Diseño Determinístico en Ingeniería y VDI.
 
 # Contenido del curso 
-
++ Unidad Didáctica 1: Identificar la necesidad o el problema
++ Unidad Didáctica 2: Crear conceptos de solución
++ Unidad Didáctica 3: Implementar la solución
++ Unidad Didáctica 4: Comunicar los resultados
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
