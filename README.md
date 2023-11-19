@@ -3,7 +3,7 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 + Proyecto: Elaboración de un detector de epilepsia del tipo tónico-clónica, con el soporte de un software e imágenes biomédicas enfocado al uso en personas de entre 20 a 33 años de edad.
 
 # ¿Qué son las convulsiones tónico clónicas?
-Las convulsiones tónico-clónicas, también conocidas como convulsiones de gran mal, son un tipo de crisis epiléptica caracterizadas por dos fases distintas: la fase tónica y la fase clónica. En la fase tónica, hay rigidez muscular y pérdida de conciencia; mientras que en la fase clónica, se producen sacudidas musculares rítmicas. Estas convulsiones pueden durar desde segundos hasta minutos y a menudo están asociadas con la epilepsia.
+[1] Las convulsiones tónico-clónicas, también conocidas como convulsiones de gran mal, son un tipo de crisis epiléptica caracterizadas por dos fases distintas: la fase tónica y la fase clónica. En la fase tónica, hay rigidez muscular y pérdida de conciencia; mientras que en la fase clónica, se producen sacudidas musculares rítmicas. Estas convulsiones pueden durar desde segundos hasta minutos y a menudo están asociadas con la epilepsia.
 
 # Objetivo del curso
 Este curso introduce los conocimientos necesarios para el desarrollo de proyectos en el campo de la ingeniería mediante el diseño de soluciones destinadas a abordar requerimientos en el área de la salud. Esto se logra a través de la aplicación del proceso de Diseño Determinístico en Ingeniería y VDI.
@@ -17,8 +17,8 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 # Materiales
 | Material | Descripción | Imagen |
 | :---:  |     :---:      |          ---: |
-| ESP32   | Microcontrolador de bajo costo y consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), específicamente diseñado para aplicaciones de Internet de las cosas (IoT) y proyectos embebidos.    | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7a01fb53-77f7-4508-b414-ce4de92cb7dc)  |
-| MPU6050     | Sensor de movimiento de seis grados de libertad (6DOF) que combina un acelerómetro y giroscopio en un solo chip, este está diseñado para medir la aceleración lineal y la velocidad angular en tres ejes espaciales.      | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf56bb37-f404-41f2-a6c4-8d3f6d2c2a11)|
+| ESP32   | [2] Microcontrolador de bajo costo y consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), cuenta con tecnología Wi-Fi y Bluetooth de modo dual integrada que permite controlar todo tipo de sensores, módulos y actuadores.   | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7a01fb53-77f7-4508-b414-ce4de92cb7dc)  |
+| MPU6050     | [3] Sensor de movimiento de seis grados de libertad (6DOF) que combina un acelerómetro y giroscopio en un solo chip, este está diseñado para medir la aceleración lineal y la velocidad angular en tres ejes espaciales.      | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf56bb37-f404-41f2-a6c4-8d3f6d2c2a11)|
 | Buzzer | Dispositivo electromecánico que produce un sonido continuo o intermitente cuando se le aplica una corriente eléctrica. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/60b4de44-b8a2-4308-8791-24c1bbeec786) |
 | Batería de litio |  Dispositivos electroquímicos que utilizan litio como uno de los electrodos en su proceso de generación de energía, estas baterías se han vuelto muy populares debido a su alta densidad de energía, larga vida útil y versatilidad en aplicaciones | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/34aaf2b7-bc3b-4170-b106-2b2e621b7396) |
 | Electrodos secos del ultracortex de peine | El electrodo seco tiene un disco tentáculo, que es simplemente como los dientes de un peine. Puede resolver eficazmente el problema del electrodo y para el ajuste de la piel, los electrodos secos comunes no pueden hacer esto. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/835c7c2f-9bf1-42d8-b345-1d10923994e5) |
@@ -53,6 +53,15 @@ Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos)
 - Jose Alonso Cáceres del Aguila
 
 # Bibliografía
+[1] Mayoclinic.org. [citado el 19 de noviembre de 2023]. Disponible en: https://www.mayoclinic.org/es/diseases-conditions/grand-mal-seizure/symptoms-causes/syc-20363458
+
+[2] Carranza S. CONOCIENDO AL ESP32 [Internet]. TodoMaker. 2021 [citado el 19 de noviembre de 2023]. Disponible en: https://todomaker.com/blog/conociendo-al-esp32/
+
+[3] Tutorial MPU6050, Acelerómetro y Giroscopio [Internet]. Naylamp Mechatronics - Perú. [citado el 19 de noviembre de 2023]. Disponible en: https://naylampmechatronics.com/blog/45_tutorial-mpu6050-acelerometro-y-giroscopio.html
+
+
+
+desde aca son las pasadas 
 [1] Epilepsia [Internet]. Who.int. [citado el 12 de septiembre de 2023]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
 
 [2] Radiological Society of North America (RSNA), American College of Radiology (ACR). Epilepsia [Internet]. Radiologyinfo.org. [citado el 12 de septiembre de 2023]. Disponible en: https://www.radiologyinfo.org/es/info/epilepsy
