@@ -26,7 +26,7 @@ Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos)
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/76619cd9-7b07-4eac-ad94-43035dbe9ce7)
 
-Imagen de: Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
+[7] Imagen de: Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
 
 
 # Integrantes del proyecto
@@ -36,9 +36,10 @@ Imagen de: Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https:/
 + Kiara Elena Carvallo Castañeda
 + Cesar Fabricio Sanchez Campuy
 
+# Foto grupal
+
 # Docentes del curso
 - Paulo Camilo Alberto Vela Anton
-- Renzo Jose Chan Rios
 - Umbert Lewis de la Cruz Rodriguez
 - Eder Juárez
 - Jose Alonso Cáceres del Aguila
@@ -60,3 +61,5 @@ https://www.canva.com/design/DAFyH7cfZmE/LtR2oavwVL2yrOP0jYjy4w/edit
 [5] E4 wristband [Internet]. Empatica. [citado el 13 de septiembre de 2023]. Disponible en: https://www.empatica.com/research/e4/
 
 [6] Torres-Gaona G, Aledo-Serrano Á, García-Morales I, Toledano R, Valls J, Cosculluela B, et al. Artificial intelligence system, based on mjn-SERAS algorithm, for the early detection of seizures in patients with refractory focal epilepsy: A cross-sectional pilot study. Epilepsy Behav Rep [Internet]. 2023;22(100600):100600. Disponible en: https://www.sciencedirect.com/science/article/pii/S2589986423000187
+
+[7] Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
