@@ -19,9 +19,9 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 | :---:  |     :---:      |          ---: |
 | ESP32   | [2] Microcontrolador de bajo costo y consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), cuenta con tecnología Wi-Fi y Bluetooth de modo dual integrada que permite controlar todo tipo de sensores, módulos y actuadores.   | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7a01fb53-77f7-4508-b414-ce4de92cb7dc)  |
 | MPU6050     | [3] Sensor de movimiento de seis grados de libertad (6DOF) que combina un acelerómetro y giroscopio en un solo chip, este está diseñado para medir la aceleración lineal y la velocidad angular en tres ejes espaciales.      | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf56bb37-f404-41f2-a6c4-8d3f6d2c2a11)|
-| Buzzer | Dispositivo electromecánico que produce un sonido continuo o intermitente cuando se le aplica una corriente eléctrica. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/60b4de44-b8a2-4308-8791-24c1bbeec786) |
-| Batería de litio |  Dispositivos electroquímicos que utilizan litio como uno de los electrodos en su proceso de generación de energía, estas baterías se han vuelto muy populares debido a su alta densidad de energía, larga vida útil y versatilidad en aplicaciones | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/34aaf2b7-bc3b-4170-b106-2b2e621b7396) |
-| Electrodos secos del ultracortex de peine | El electrodo seco tiene un disco tentáculo, que es simplemente como los dientes de un peine. Puede resolver eficazmente el problema del electrodo y para el ajuste de la piel, los electrodos secos comunes no pueden hacer esto. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/835c7c2f-9bf1-42d8-b345-1d10923994e5) |
+| Buzzer | [4] Pequeño transductor capaz de convertir la energía eléctrica en sonido continuo o intermitente. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/60b4de44-b8a2-4308-8791-24c1bbeec786) |
+| Batería de litio |  [5] Dispositivos electroquímicos que utilizan litio como uno de los electrodos en su proceso de generación de energía, estas baterías se han vuelto muy populares debido a su alta densidad de energía, larga vida útil y versatilidad en aplicaciones | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/34aaf2b7-bc3b-4170-b106-2b2e621b7396) |
+| Electrodos secos del ultracortex de peine | [6] El electrodo seco tiene un disco tentáculo, que es simplemente como los dientes de un peine. Puede resolver eficazmente el problema del electrodo y para el ajuste de la piel, los electrodos secos comunes no pueden hacer esto. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/835c7c2f-9bf1-42d8-b345-1d10923994e5) |
 
 
 # Temática del proyecto
@@ -59,6 +59,11 @@ Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos)
 
 [3] Tutorial MPU6050, Acelerómetro y Giroscopio [Internet]. Naylamp Mechatronics - Perú. [citado el 19 de noviembre de 2023]. Disponible en: https://naylampmechatronics.com/blog/45_tutorial-mpu6050-acelerometro-y-giroscopio.html
 
+[4] UAEH. Buzzer [Internet]. Edu.mx. [citado el 19 de noviembre de 2023]. Disponible en: http://ceca.uaeh.edu.mx/informatica/oas_final/OA4/buzzer.html
+
+[5] Corporativa I. Las baterías de ion de litio, fundamentales para el almacenamiento de energía [Internet]. Iberdrola. 2021 [citado el 19 de noviembre de 2023]. Disponible en: https://www.iberdrola.com/innovacion/baterias-ion-litio
+
+[6] No title [Internet]. Aliexpress.us. [citado el 19 de noviembre de 2023]. Disponible en: https://www.aliexpress.us/item/3256803257489158.html?gatewayAdapt=esp2usa4itemAdapt
 
 
 desde aca son las pasadas 
