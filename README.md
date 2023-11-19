@@ -20,6 +20,7 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 | ESP32   | Microcontrolador de bajo costo y consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), específicamente diseñado para aplicaciones de Internet de las cosas (IoT) y proyectos embebidos.    | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7a01fb53-77f7-4508-b414-ce4de92cb7dc)  |
 | MPU6050     | Sensor de movimiento de seis grados de libertad (6DOF) que combina un acelerómetro y giroscopio en un solo chip, este está diseñado para medir la aceleración lineal y la velocidad angular en tres ejes espaciales.      | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/bf56bb37-f404-41f2-a6c4-8d3f6d2c2a11)|
 | Buzzer | Dispositivo electromecánico que produce un sonido continuo o intermitente cuando se le aplica una corriente eléctrica. | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/60b4de44-b8a2-4308-8791-24c1bbeec786) |
+| Batería de litio |  Dispositivos electroquímicos que utilizan litio como uno de los electrodos en su proceso de generación de energía, estas baterías se han vuelto muy populares debido a su alta densidad de energía, larga vida útil y versatilidad en aplicaciones | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/34aaf2b7-bc3b-4170-b106-2b2e621b7396) |
 
 
 # Temática del proyecto
