@@ -5,6 +5,11 @@ Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, cen
 # ¿Qué son las convulsiones tónico clónicas?
 Las convulsiones tónico-clónicas, también conocidas como convulsiones de gran mal, son un tipo de crisis epiléptica caracterizadas por dos fases distintas: la fase tónica y la fase clónica. En la fase tónica, hay rigidez muscular y pérdida de conciencia; mientras que en la fase clónica, se producen sacudidas musculares rítmicas. Estas convulsiones pueden durar desde segundos hasta minutos y a menudo están asociadas con la epilepsia.
 
+# Objetivo del curso
+Este curso introduce los conocimientos necesarios para el desarrollo de proyectos en el campo de la ingeniería mediante el diseño de soluciones destinadas a abordar requerimientos en el área de la salud. Esto se logra a través de la aplicación del proceso de Diseño Determinístico en Ingeniería y VDI.
+
+# Contenido del curso 
+
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
