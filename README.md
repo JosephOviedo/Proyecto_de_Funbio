@@ -28,13 +28,13 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 La elaboración de un detector de convulsiones de tipo tónico-clónicas con el soporte de un software e imágenes biomédicas enfocado al uso en pacientes de entre 20 a 33 años de edad.
 
 # Justificación del proyecto
-La crisis motora generalizada tónico-clónica se da con la pérdida de la conciencia, sacudidas musculares o clonías (convulsiones) que suelen durar de 1 a 3 minutos; además, presenta dificultades para respirar y la disminución de la frecuencia cardiaca. En un estudio con 134 pacientes (62,9%) presentando crisis de inicio generalizado, la gran mayoría presentó manifestaciones motoras puras (97,8%), y dentro de este porcentaje siendo las más repetitivas las crisis motoras tónico-clónicas (92,5%); siendo pacientes de entre los 20 a 33 años los más frecuentes al sufrir esta crisis motora. 
+[7] La crisis motora generalizada tónico-clónica se da con la pérdida de la conciencia, sacudidas musculares o clonías (convulsiones) que suelen durar de 1 a 3 minutos; además, presenta dificultades para respirar y la disminución de la frecuencia cardiaca. En un estudio con 134 pacientes (62,9%) presentando crisis de inicio generalizado, la gran mayoría presentó manifestaciones motoras puras (97,8%), y dentro de este porcentaje siendo las más repetitivas las crisis motoras tónico-clónicas (92,5%); siendo pacientes de entre los 20 a 33 años los más frecuentes al sufrir esta crisis motora. 
 
-Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos) son de 6 por 1.000 habitantes, que representa a una población típica de un país desarrollado. En la figura, se exhibe las distribuciones de Chile, Colombia, Cuba, CME (Ecuador), Guatemala y Uruguay, contrastándolas con la de Rochester, EEUU, considerando la prevalencia ajustada por grupo de edad. En los estudios latinoamericanos, una tendencia común es la presencia de tasas elevadas antes de los 20 años, siendo este patrón menos pronunciado en el CME de Ecuador y notablemente elevado en el de Chile. En investigaciones realizadas en Estados Unidos y otros países desarrollados, la prevalencia más alta de epilepsia se registra en los extremos de la edad, es decir, en las primeras décadas de la vida y por encima de los 60 años.
+[8] Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos) son de 6 por 1.000 habitantes, que representa a una población típica de un país desarrollado. En la figura, se exhibe las distribuciones de Chile, Colombia, Cuba, CME (Ecuador), Guatemala y Uruguay, contrastándolas con la de Rochester, EEUU, considerando la prevalencia ajustada por grupo de edad. En los estudios latinoamericanos, una tendencia común es la presencia de tasas elevadas antes de los 20 años, siendo este patrón menos pronunciado en el CME de Ecuador y notablemente elevado en el de Chile. En investigaciones realizadas en Estados Unidos y otros países desarrollados, la prevalencia más alta de epilepsia se registra en los extremos de la edad, es decir, en las primeras décadas de la vida y por encima de los 60 años.
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/76619cd9-7b07-4eac-ad94-43035dbe9ce7)
 
-[7] Imagen de: Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
+[8] Imagen de: Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
 
 
 # Integrantes del proyecto
@@ -65,18 +65,7 @@ Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos)
 
 [6] No title [Internet]. Aliexpress.us. [citado el 19 de noviembre de 2023]. Disponible en: https://www.aliexpress.us/item/3256803257489158.html?gatewayAdapt=esp2usa4itemAdapt
 
+[7] Jerez J, González-Delatorre A. Frecuencia de epilepsia y de las principales fenomenologías ictales en pacientes que acuden a consulta externa de neurología. Hospital general “Dr Luis Razetti”, Barinas Venezuela. Julio 2021 - enero 2023. Revista GICOS [Internet]. 2023 [citado el 19 de noviembre de 2023];8(2):28–42. Disponible en: http://portal.amelica.org/ameli/journal/351/3514271004/html/
 
-desde aca son las pasadas 
-[1] Epilepsia [Internet]. Who.int. [citado el 12 de septiembre de 2023]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/epilepsy
+[8] Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
 
-[2] Radiological Society of North America (RSNA), American College of Radiology (ACR). Epilepsia [Internet]. Radiologyinfo.org. [citado el 12 de septiembre de 2023]. Disponible en: https://www.radiologyinfo.org/es/info/epilepsy
-
-[3] Juan Jerez. Las principales fenomenologías y frecuencias sobre epilepsias. Rev Gicos [Internet]. 2015 [citado el 20 de septiembre de 2023];78(3):130–9. Disponible en: http://portal.amelica.org/ameli/journal/351/3514271004/html/
-
-[4] BBC News Mundo. La ropa inteligente que puede salvarle la vida. BBC [Internet]. el 27 de agosto de 2014 [citado el 13 de septiembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2014/08/140827_salud_tecnologia_ropa_salva_vida_lv
-
-[5] E4 wristband [Internet]. Empatica. [citado el 13 de septiembre de 2023]. Disponible en: https://www.empatica.com/research/e4/
-
-[6] Torres-Gaona G, Aledo-Serrano Á, García-Morales I, Toledano R, Valls J, Cosculluela B, et al. Artificial intelligence system, based on mjn-SERAS algorithm, for the early detection of seizures in patients with refractory focal epilepsy: A cross-sectional pilot study. Epilepsy Behav Rep [Internet]. 2023;22(100600):100600. Disponible en: https://www.sciencedirect.com/science/article/pii/S2589986423000187
-
-[7] Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
