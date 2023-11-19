@@ -1,6 +1,6 @@
 # Proyecto_de_Funbio G03
 Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, centrado en Señales e imágenes biomédicas
-+ Proyecto: Elaboración de un detector de epilepsia del tipo tónico- clónica, con el soporte de un software e imágenes biomédicas enfocado al uso en personas de entre 20 a 33 años de edad.
++ Proyecto: Elaboración de un detector de epilepsia del tipo tónico-clónica, con el soporte de un software e imágenes biomédicas enfocado al uso en personas de entre 20 a 33 años de edad.
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
