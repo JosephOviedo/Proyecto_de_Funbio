@@ -26,6 +26,8 @@ Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos)
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/76619cd9-7b07-4eac-ad94-43035dbe9ce7)
 
+Imagen de: Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
+
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
