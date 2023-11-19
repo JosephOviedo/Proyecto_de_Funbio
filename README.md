@@ -17,7 +17,8 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 # Materiales
 | Material | Descripción | Imagen |
 | :---:  |     :---:      |          ---: |
-| Microcontrolador ESP32   | microcontrolador de bajo costo y bajo consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), específicamente diseñado para aplicaciones de Internet de las cosas (IoT) y proyectos embebidos.    | git status    |
+| ESP32   | Microcontrolador de bajo costo y consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), específicamente diseñado para aplicaciones de Internet de las cosas (IoT) y proyectos embebidos.    | ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/7a01fb53-77f7-4508-b414-ce4de92cb7dc)
+   |
 | git diff     | git diff       | git diff      |
 
 # Temática del proyecto
