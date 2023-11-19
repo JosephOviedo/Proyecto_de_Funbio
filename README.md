@@ -16,7 +16,7 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 
 # Materiales
 | Material | Descripción | Imagen |
-| Microcontrolador ESP32     |     :---:      |          ---: |
+| :---:  |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
