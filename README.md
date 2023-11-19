@@ -21,7 +21,11 @@ La elaboración de un detector de convulsiones de tipo tónico-clónicas con el 
 
 # Justificación del proyecto
 La crisis motora generalizada tónico-clónica se da con la pérdida de la conciencia, sacudidas musculares o clonías (convulsiones) que suelen durar de 1 a 3 minutos; además, presenta dificultades para respirar y la disminución de la frecuencia cardiaca. En un estudio con 134 pacientes (62,9%) presentando crisis de inicio generalizado, la gran mayoría presentó manifestaciones motoras puras (97,8%), y dentro de este porcentaje siendo las más repetitivas las crisis motoras tónico-clónicas (92,5%); siendo pacientes de entre los 20 a 33 años los más frecuentes al sufrir esta crisis motora. 
-Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos) son de 6 por 1.000 habitantes, que representa a una población típica de un país desarrollado. A su vez, se exhibe las distribuciones de Chile, Colombia, Cuba, CME (Ecuador), Guatemala y Uruguay, contrastándolas con la de Rochester, EEUU, considerando la prevalencia ajustada por grupo de edad. En los estudios latinoamericanos, una tendencia común es la presencia de tasas elevadas antes de los 20 años, siendo este patrón menos pronunciado en el CME de Ecuador y notablemente elevado en el de Chile. En investigaciones realizadas en Estados Unidos y otros países desarrollados, la prevalencia más alta de epilepsia se registra en los extremos de la edad, es decir, en las primeras décadas de la vida y por encima de los 60 años.
+
+Asimismo, las tasas de epilepsia activa reportadas en Rochester (Estados Unidos) son de 6 por 1.000 habitantes, que representa a una población típica de un país desarrollado. En la figura, se exhibe las distribuciones de Chile, Colombia, Cuba, CME (Ecuador), Guatemala y Uruguay, contrastándolas con la de Rochester, EEUU, considerando la prevalencia ajustada por grupo de edad. En los estudios latinoamericanos, una tendencia común es la presencia de tasas elevadas antes de los 20 años, siendo este patrón menos pronunciado en el CME de Ecuador y notablemente elevado en el de Chile. En investigaciones realizadas en Estados Unidos y otros países desarrollados, la prevalencia más alta de epilepsia se registra en los extremos de la edad, es decir, en las primeras décadas de la vida y por encima de los 60 años.
+
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/76619cd9-7b07-4eac-ad94-43035dbe9ce7)
+
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
