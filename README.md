@@ -17,7 +17,7 @@ Este curso introduce los conocimientos necesarios para el desarrollo de proyecto
 # Materiales
 | Material | Descripción | Imagen |
 | :---:  |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Microcontrolador ESP32   | microcontrolador de bajo costo y bajo consumo de energía que pertenece a la familia de chips ESP (Espressif Systems), específicamente diseñado para aplicaciones de Internet de las cosas (IoT) y proyectos embebidos.    | git status    |
 | git diff     | git diff       | git diff      |
 
 # Temática del proyecto
