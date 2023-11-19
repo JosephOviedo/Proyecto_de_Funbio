@@ -2,6 +2,10 @@
 Bienvenidos al repositorio del grupo 03 del curso Fundamentos de biodiseño, centrado en Señales e imágenes biomédicas
 + Proyecto: Elaboración de un detector de epilepsia del tipo tónico-clónica, con el soporte de un software e imágenes biomédicas enfocado al uso en personas de entre 20 a 33 años de edad.
 
+# ¿Qué son las convulsiones tónico clónicas?
+Las convulsiones tónico-clónicas, también conocidas como convulsiones de gran mal, son un tipo de crisis epiléptica caracterizadas por dos fases distintas: la fase tónica y la fase clónica. En la fase tónica, hay rigidez muscular y pérdida de conciencia; mientras que en la fase clónica, se producen sacudidas musculares rítmicas. Estas convulsiones pueden durar desde segundos hasta minutos y a menudo están asociadas con la epilepsia.
+
+
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
 + Adrián Mayor Calderón
