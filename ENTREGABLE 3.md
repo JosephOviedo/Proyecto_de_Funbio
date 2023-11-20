@@ -1,4 +1,4 @@
-# Caja negra y esquema de funciones
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/a73fee32-4f9e-43a4-84af-7b8e94d6a1a5)# Caja negra y esquema de funciones
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/aa5742e8-c89d-4b3d-b787-1ecd7874c1db)
 
@@ -6,11 +6,9 @@
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/80d9a237-0fec-4645-82f4-56c866044905)
 
 
-# MATRIZ MORFOLÓGICA: 
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/83207471-64d8-4246-9a0e-97356ddb4ecc)
-
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/87a45c75-9a13-4900-8c7d-053d26f8919b)
-
+# MATRIZ MORFOLÓGICA:
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/bb31a24c-5888-4427-8fa1-ac726f9fc826)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/d0688801-5105-462c-a04d-ae2b16df8094)
 
 # TABLA DE VALORACIÓN:
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/36b27d24-6f83-4c8f-9d87-194326c8b4b8)
