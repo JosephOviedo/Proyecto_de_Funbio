@@ -1,4 +1,4 @@
-![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143462016/a73fee32-4f9e-43a4-84af-7b8e94d6a1a5)# Caja negra y esquema de funciones
+# Caja negra y esquema de funciones
 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/aa5742e8-c89d-4b3d-b787-1ecd7874c1db)
 
