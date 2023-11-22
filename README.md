@@ -35,7 +35,8 @@ La elaboración de un detector de convulsiones de tipo tónico-clónicas con el 
 ![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/76619cd9-7b07-4eac-ad94-43035dbe9ce7)
 
 [8] Imagen de: Paho.org. [citado el 19 de noviembre de 2023]. Disponible en: https://iris.paho.org/bitstream/handle/10665.2/2801/Informe%20sobre%20la%20Epilepsia%20en%20Latinoamerica.pdf?sequence=1&isAllowed=y
-
+# LINK DEL CANVA: 
+https://www.canva.com/design/DAF0j2V_z4s/YoPlxhEBZYHuAhJGs08Nqg/edit
 
 # Integrantes del proyecto
 + Joseph Brahan Oviedo Soto
