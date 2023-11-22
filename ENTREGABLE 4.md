@@ -1,6 +1,8 @@
 # BOCETOS
 
 ![WhatsApp Image 2023-10-18 at 12 06 24_b7ca8d6c](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/b73ee0d4-ce68-4a84-8b2a-5aeda96a728f)
+![image](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/5d57ec07-f4ad-4c26-984a-f8f2b87acb20)
+
 
 ![WhatsApp Image 2023-10-18 at 11 41 32_61ad539a](https://github.com/JosephOviedo/Proyecto_de_Funbio/assets/143360320/b736ffd6-f934-441f-bec1-32b0e6dc853b)
 Descripción:
